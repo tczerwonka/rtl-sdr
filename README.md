@@ -14,10 +14,11 @@ python script **udpclient.py** for easy operation included.
 
 * freq (./udpclient.py freq 101900000)
 * mode (./udpclient.py mode 0 (for fm))
-  * 0 = FM
+  * 0 = NBFM
   * 1 = AM
   * 2 = USB
   * 3 = LSB
+  * 4 = WBFM
 * squelch (./udpclient.py squelch 0)
   * 0 = OFF
   * n = Value
